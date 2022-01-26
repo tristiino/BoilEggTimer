@@ -13,6 +13,7 @@
 		5D818FAB279FB26D00285148 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D818FA9279FB26D00285148 /* Main.storyboard */; };
 		5D818FAD279FB27400285148 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D818FAC279FB27400285148 /* Assets.xcassets */; };
 		5D818FB0279FB27400285148 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D818FAE279FB27400285148 /* LaunchScreen.storyboard */; };
+		5D818FB8279FCDB300285148 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5D818FB7279FCDB300285148 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5D818FAC279FB27400285148 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D818FAF279FB27400285148 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D818FB1279FB27400285148 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D818FB7279FCDB300285148 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				5D818FA7279FB26D00285148 /* ViewController.swift */,
 				5D818FA9279FB26D00285148 /* Main.storyboard */,
 				5D818FAC279FB27400285148 /* Assets.xcassets */,
+				5D818FB7279FCDB300285148 /* alarm_sound.mp3 */,
 				5D818FAE279FB27400285148 /* LaunchScreen.storyboard */,
 				5D818FB1279FB27400285148 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				5D818FB0279FB27400285148 /* LaunchScreen.storyboard in Resources */,
 				5D818FAD279FB27400285148 /* Assets.xcassets in Resources */,
+				5D818FB8279FCDB300285148 /* alarm_sound.mp3 in Resources */,
 				5D818FAB279FB26D00285148 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
